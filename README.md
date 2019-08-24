@@ -1,3 +1,4 @@
+[![Build Status](https://samtep.visualstudio.com/samteptest/_apis/build/status/samnangtep2k.pipelines-java?branchName=master)](https://samtep.visualstudio.com/samteptest/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
